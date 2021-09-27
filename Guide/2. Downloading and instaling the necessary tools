@@ -1,0 +1,50 @@
+2. Downloading and instaling the necessary tools
+
+
+First we're going to have a web browsr and then we're going to need some sort od code editor to be able to do all he work.
+
+Now if you're on Windows machine it'll have Microsoft Edge. If you are on Linux machine then it will either come with Firfox or Google Chrome but either way what i would like us to do is to all on the same page with a browser. So to do that we're just going to go to our default browser wich in my case is Firefox and we're going  to go to Chrome Google going into this exercise.
+
+
+
+Now we¿re going to coe in Sublimetext.
+
+This is a good one for giving us different tols that we need for CSS and thein you'll want to grab JS for HTML former.
+
+
+You'll want to sall prettier code for matter and that'll kind of help formatting the JS code and HTML code as well.
+
+Si if we get those four different extension installed ad all like i said all you do is click the install 
+
+
+Pretier - Javascript formatter
+Pretier - Standar Javscript formater
+vsc-pretier-glimmr
+Pretier for Haddibars
+Pretier Fuge Standart
+
+Pretier Now
+Pretier - Code formateer
+
+
+The main Structure is
+
+Webpage
+	CSS
+		reset.css
+		styles.css
+	images
+		hero.jpg
+	js
+		main.js
+	index.html
+
+
+In the process of saying that i just remembered that there's another extension i want you to get it's called Alive server.
+
+
+References:
+
+https://code.visualstudio.com/
+
+https://www.google.com/chrome/?brand=BNSD&gclid=Cj0KCQjwtMCKBhDAARIsAG-2Eu9fNBk9iiDWNNPibWqM15fHd0nDRCT97SYRjnqqLwP8LLH8mXQ7HJEaAkGBEALw_wcB&gclsrc=aw.ds
